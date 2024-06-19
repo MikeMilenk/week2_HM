@@ -28,6 +28,7 @@ body {
         position: relative;
         padding: 3rem 1rem 1rem;
         border: 1px solid black;
+        background-color: rgb(73, 52, 135);
     }
     .label {
         margin: unset;
